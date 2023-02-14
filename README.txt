@@ -6,4 +6,4 @@ VERSION: Version 1.0, 02/13/2023
 
 AUTHOR: Lydia Strough, WGU#002452624
 
-DIRECTIONS: View the "C188_PA_Overview.pdf" file for futher information about the task. 
+DIRECTIONS: View the "C188_PA_Overview.pdf" file for futher information about the task. View the "Lydia_Strough_C188_PA.docx" file for the CRM Proposal.
